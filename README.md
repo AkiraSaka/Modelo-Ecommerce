@@ -4,7 +4,7 @@
  * Bibliotecas utilizadas:
     - Python 3.10.5
     - Django 4.1
-    - Front end construido em HTML5, CSS, Java e Bootstrap
+    - Front end pré construido em HTML5, CSS, Java e Bootstrap (Distribuido por "Curso de Python 3 do Básico Ao Avançado (com projetos reais)")
 
  * Como executar no terminal:
     - Instalar bibliotecas Django e Pillow
